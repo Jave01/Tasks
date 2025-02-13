@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+li:hover {
+    background-color: #f4f4f4;
+}
+.post-body {
+    display: none;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #007BFF;
+}
+span{
+    font-weight: lighter;
+}
